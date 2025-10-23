@@ -5,7 +5,7 @@ ADVANCED PRICE PREDICTION MODEL
 A comprehensive machine learning pipeline for predicting product prices
 from catalog text descriptions using ensemble methods and advanced NLP.
 
-Author: [Your Name]
+Author: Ramdev Chaudhary & Pranita Jagtap
 Date: 2025
 Competition-Safe: Uses only traditional ML (no external LLMs)
 
@@ -893,4 +893,5 @@ print("\n" + "="*60)
 print("\n✨ Thank you for using this pipeline!")
 print("📚 For questions or improvements, check the documentation.")
 print("🌟 Star this repo if you found it helpful!")
+
 print("="*60 + "\n")
