@@ -353,24 +353,24 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍👩‍👧‍👦 Team
 
 **Ramdev Chaudhary [Team Leader]**
-- GitHub: [@yourusername](https://github.com/ramoware)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/ramdevchaudhary)
+- GitHub: [@ramoware](https://github.com/ramoware)
+- LinkedIn: [ramdevchaudhary](https://linkedin.com/in/ramdevchaudhary)
 - Email: ramoware@gmail.com
 
 **Pranita Jagtap [Co-Leader]**
-- GitHub: [@yourusername](https://github.com/PranitaJagtap)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/PranitaJagtap)
+- GitHub: [@PranitaJagtap](https://github.com/PranitaJagtap)
+- LinkedIn: [PranitaJagtap](https://linkedin.com/in/PranitaJagtap)
 - Email: jagtappranita2003@gmail.com
 
 **Vedant Wadekar [Associate]**
-- GitHub: [@yourusername](https://github.com/Vedantwadekar2112)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/vedant-wadekar-394948378)
-- Email: ramoware@gmail.com
+- GitHub: [@Vedantwadekar2112](https://github.com/Vedantwadekar2112)
+- LinkedIn: [vedant-wadekar-394948378](https://linkedin.com/in/vedant-wadekar-394948378)
+- Email: vedantwadekar49@gmail.com
 
 **Sony Yadav [Associate]**
-- GitHub: [@yourusername](https://github.com/ramoware)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/ramdevchaudhary)
-- Email: ramoware@gmail.com
+- GitHub: [@ramoware](https://github.com/ramoware)
+- LinkedIn: [sony-yadav-17393232a](https://linkedin.com/in/sony-yadav-17393232a)
+- Email: soniy11265@gmail.com
 
 ---
 
